@@ -5,7 +5,7 @@
 # =====================================================================
 #
 #  HOW TO RUN  (one command, that's it):
-#       python ISOC_ONE_FILE.py
+#       python ISOC_ONE_F ILE.py
 #
 #  On first run this file will:
 #    1. Install missing Python packages (auto, or from ./wheels/ offline)
