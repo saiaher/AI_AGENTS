@@ -1,0 +1,6 @@
+streamlit>=1.39
+plotly
+dnspython
+ipwhois
+paramiko
+openpyxl
